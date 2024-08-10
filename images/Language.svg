@@ -1,0 +1,9 @@
+<svg id="Language_" data-name="Language " xmlns="http://www.w3.org/2000/svg" width="29.386" height="29.386" viewBox="0 0 29.386 29.386">
+  <rect id="Touch_Target" data-name="Touch Target" width="29.386" height="29.386" fill="none"/>
+  <g id="German" transform="translate(0 0)">
+    <path id="Gold" d="M27.393,12.2H.723a14.139,14.139,0,0,0,26.67,0" transform="translate(0.414 6.991)" fill="#ffe013"/>
+    <path id="Red" d="M27.692,6.2H1.023a13.946,13.946,0,0,0,0,9.438h26.67a13.971,13.971,0,0,0,0-9.438" transform="translate(0.115 3.553)" fill="#d50606"/>
+    <path id="Black" d="M.723,9.638h26.67a14.139,14.139,0,0,0-26.67,0" transform="translate(0.414 0.115)" fill="#1d1d1b"/>
+    <path id="Stroke" d="M14.472,28.944A14.472,14.472,0,1,1,28.944,14.472,14.488,14.488,0,0,1,14.472,28.944m0-28.315A13.842,13.842,0,1,0,28.313,14.472,13.857,13.857,0,0,0,14.472.629" transform="translate(0 0)" fill="#f2f3f8"/>
+  </g>
+</svg>

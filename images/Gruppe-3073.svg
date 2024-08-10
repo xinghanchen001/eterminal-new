@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.978" height="43.554" viewBox="0 0 43.978 43.554">
+  <g id="Gruppe_3073" data-name="Gruppe 3073" transform="translate(-1622.51 -58)">
+    <g id="Gruppe_3052" data-name="Gruppe 3052" transform="translate(1622.51 58)">
+      <g id="Gruppe_3033" data-name="Gruppe 3033" transform="translate(0 0)">
+        <g id="Rechteck_1777" data-name="Rechteck 1777" transform="translate(0 6.172)" fill="none" stroke="#2ea9d1" stroke-width="3">
+          <rect width="43.978" height="37.382" rx="5" stroke="none"/>
+          <rect x="1.5" y="1.5" width="40.978" height="34.382" rx="3.5" fill="none"/>
+        </g>
+        <path id="Pfad_3728" data-name="Pfad 3728" d="M102.412,38.666v7.467" transform="translate(-89.258 -38.666)" fill="none" stroke="#2ea9d1" stroke-width="3"/>
+        <path id="Pfad_3730" data-name="Pfad 3730" d="M0,0V40.856" transform="translate(1.936 15.811) rotate(-90)" fill="none" stroke="#2ea9d1" stroke-width="3"/>
+        <path id="Pfad_3729" data-name="Pfad 3729" d="M102.412,38.666v7.467" transform="translate(-69.085 -38.666)" fill="none" stroke="#2ea9d1" stroke-width="3"/>
+      </g>
+      <g id="star_black_24dp" transform="translate(11.886 17.562)">
+        <g id="Gruppe_3028" data-name="Gruppe 3028">
+          <path id="Pfad_3725" data-name="Pfad 3725" d="M0,0H20.529V20.529H0Z" fill="none"/>
+          <path id="Pfad_3726" data-name="Pfad 3726" d="M0,0H20.529V20.529H0Z" fill="none"/>
+        </g>
+        <g id="Gruppe_3029" data-name="Gruppe 3029" transform="translate(1.711 1.711)">
+          <path id="Pfad_3727" data-name="Pfad 3727" d="M10.554,15.062l5.286,3.191-1.4-6.013,4.67-4.046-6.15-.522L10.554,2,8.15,7.671,2,8.193l4.67,4.046-1.4,6.013Z" transform="translate(-2 -2)" fill="#2ea9d1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
